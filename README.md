@@ -17,7 +17,9 @@
   </a>
 </p>
 
+<br>
 <p align="center">✦ ✦ ✦</p>
+<br>
 
 <h3 align="center">🛠Tech Stack🛠</h3>
 
@@ -31,18 +33,19 @@
   <a href="https://isocpp.org/">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   </a>
-
+  
   <!-- HLSL -->
   <a href="https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl">
     <img src="https://img.shields.io/badge/HLSL-3366cc?style=for-the-badge&logoColor=white" alt="HLSL" />
   </a>
-
+  
   <!-- Unity -->
   <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-
 </p>
 
+<br>
 <p align="center">✦ ✦ ✦</p>
+<br>
 
 <h3 align="center">🧩Tools🧩</h3>
 
@@ -57,7 +60,9 @@
   <img src="https://img.shields.io/badge/TortoiseSVN-35495E?style=for-the-badge&logoColor=white" alt="TortoiseSVN" />
 </p>
 
+<br>
 <p align="center">✦ ✦ ✦</p>
+<br>
 
 ## 💼 프로젝트
 
