@@ -1,10 +1,4 @@
-<h1 align="center">👋 안녕하세요, soso03185입니다!</h1>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Nanum+Gothic&size=24&pause=1000&color=2E89FF&center=true&vCenter=true&width=700&lines=Unity+클라이언트+개발자+지망생;모바일+캐주얼+게임에+관심이+많습니다.;Shader+Graph%2C+LINQ+%EB%93%B1+%EA%B8%B0%EC%88%A0%EC%9D%84+%EC%97%B0%EC%8A%B5%ED%95%98%EA%B3%A0+%EC%9E%88%EC%9A%94.;게임%EC%9D%84+%EB%A7%8C%EB%93%A4%EB%A9%B4%EC%84%9C+%ED%95%84%EB%93%A0+%EC%9E%90%EB%A6%AC%EB%A5%BC+%ED%95%9C%EB%8B%A4!" alt="Typing SVG" />
-  </a>
-</p>
+<h1 align="center">👋 안녕하세요, 게임 개발을 공부하는 김재현입니다.</h1>
 
 ---
 
