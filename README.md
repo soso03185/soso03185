@@ -60,7 +60,7 @@
 
 <h3 align="center">🗂️ Project 🗂️</h3>
 <div align="center">
-  <h4>🎮 <a href="https://play.google.com/store/apps/details?id=com.machineGirl.firebasedb&hl=ko">기계소녀</a> – Google Play에 출시</h4>
+  <h4>🎮 <a href="https://play.google.com/store/apps/details?id=com.machineGirl.firebasedb&hl=ko">기계소녀</a> (출시)</h4>
   Firebase 연동 · 튜토리얼 & 퀘스트 시스템 · Shader Graph 연출 · 퍼포먼스 최적화
   
 <br>
