@@ -6,7 +6,10 @@
 
 <p align="center">
   ✉️ email : <strong>zmgma33@gmail.com</strong> <br>
-  📘 Notion : <a href="https://www.notion.so/Portfolio-1074f3e7507c42079daf1341aa3c9ce5">포트폴리오 보러가기 (Notion)</a> <br>
+  📘 Notion :  <!-- Notion -->
+  <a href="https://www.notion.so/Portfolio-1074f3e7507c42079daf1341aa3c9ce5" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  </a> <br>
   ✍️ Velog : <a href="https://velog.io/@dev-journey/series">velog.io/@dev-journey</a>
 </p>
 
