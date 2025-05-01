@@ -1,11 +1,5 @@
 <h1 align="center">👋 언제나 재미있는 게임을 만들고 있는, 김재현입니다.</h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Nanum+Gothic&size=24&pause=1000&color=00C896&center=true&vCenter=true&width=700&lines=Unity+클라이언트+개발자+지망생;Shader+Graph%2C+최적화%2C+콘텐츠+시스템+경험+보유;즐거운+게임을+코드로+만드는+중입니다!" alt="Typing SVG" />
-  </a>
-</p>
-
 ---
 
 ## 🔧 사용 기술
