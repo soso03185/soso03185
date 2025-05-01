@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<hr style="width: 20%; margin: 24px auto; border: 0.5px solid #ccc;" />
+<p align="center">·················</p>
 
 <h3 align="center">🛠Tech Stack🛠</h3>
 
@@ -43,7 +43,7 @@
 
 </p>
 
-<hr style="width: 20%; margin: 24px auto; border: 0.5px solid #ccc;" />
+<p align="center">·················</p>
 
 <h3 align="center">🧩Tools🧩</h3>
 
@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/TortoiseSVN-35495E?style=for-the-badge&logoColor=white" alt="TortoiseSVN" />
 </p>
 
-<hr style="width: 20%; margin: 24px auto; border: 0.5px solid #ccc;" />
+<p align="center">·················</p>
 
 ## 💼 프로젝트
 
