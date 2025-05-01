@@ -17,9 +17,9 @@
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" />
   </a>
 </p>
-<br><br>
+<br>
 
- <hr style="width: 40%; margin: 24px auto; border: 1px solid #ccc;" />
+ <hr style="width: 20%; margin: 24px auto; border: 0.3px solid #ccc;" />
  
 <h3 align="center">🛠Tech Stack🛠</h3>
 
