@@ -21,15 +21,11 @@
 - 타일 기반 월드 생성, 셰이더 연출(커브드 월드), 경량화 최적화 적용
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soso03185&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soso03185&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soso03185&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soso03185&layout=compact&theme=default" alt="Top Languages" height="180em"/>
 </p>
 
 ---
