@@ -1,42 +1,49 @@
+<h1 align="center">👋 안녕하세요, soso03185입니다!</h1>
 
-# 👋 안녕하세요! soso03185입니다
-
-🎮 **Unity 기반 게임 클라이언트 개발자**를 목표로 준비 중입니다.  
-📱 모바일 캐주얼 게임에 관심이 많으며, 퍼포먼스 최적화와 셰이더 연출에 흥미를 느낍니다.  
-💡 현재 Unity Shader Graph, C# LINQ 등을 학습하고 있습니다.
-
----
-
-## 🛠 기술 스택
-
-- **언어**: C#, Python, JavaScript  
-- **엔진 & 툴**: Unity (URP, Shader Graph), Git, GitHub, Firebase  
-- **기타**: Figma, Adobe After Effects
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Nanum+Gothic&size=24&pause=1000&color=2E89FF&center=true&vCenter=true&width=600&lines=Unity+클라이언트+개발자+지망생;모바일+캐주얼+게임에+관심이+많습니다.;Shader+Graph%2C+LINQ+%EB%93%B1+%EC%97%AC%EB%9F%AC+%EA%B8%B0%EC%88%A0%EC%9D%84+%EC%97%B0%EC%8A%B5%ED%95%98%EA%B3%A0+%EC%9E%88%EC%9A%94.;게임%EC%9D%84+%EB%A7%8C%EB%93%A4%EB%A9%B4%EC%84%9C+%ED%95%84%EB%93%A0+%EC%9E%90%EB%A6%AC%EB%A5%BC+%ED%95%9C%EB%8B%A4!" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 📂 주요 프로젝트
+## 🔧 사용 기술
+
+- **언어**: C# (Unity 중심)
+- **게임 엔진**: Unity (URP, Shader Graph)  
+- **툴 & 협업**: Git/GitHub, Notion, Slack
+---
+
+## 💼 프로젝트
 
 ### 🎓 졸업작품 – 캐주얼 모바일 게임
-- **설명**: Google Play에 직접 출시한 캐주얼 모바일 게임입니다.
-- **역할**: 클라이언트 개발 전반 (UI, Firebase 연동, 콘텐츠 시스템, 최적화 등)을 담당하였습니다.
-- **링크**: [프로젝트 링크](https://play.google.com/store/apps/details?id=your.app.id)
+- Google Play에 직접 출시  
+- 클라이언트 개발 전반 담당 (Firebase 연동, 콘텐츠 시스템, UI, 최적화 등)
 
-### 🏃 3D 타일 기반 러너 게임 (개발 중)
-- **설명**: 곡선형 타일 경로, 2D 캐릭터와 3D 배경을 활용한 러너 게임입니다.
-- **특징**: 실시간 타일 스포닝 및 셰이더 연출을 적용하고 있습니다.
+### 🏃 3D 러너 게임 (개발 중)
+- 2D 도트 캐릭터 + 3D 곡선형 타일 환경  
+- 타일 기반 월드 생성, 셰이더 연출(커브드 월드), 경량화 최적화 적용
+
+---
+
+## 📎 포트폴리오 & 블로그
+
+- 📘 Notion 포트폴리오: [포트폴리오 보러가기](https://www.notion.so/Portfolio-1074f3e7507c42079daf1341aa3c9ce5)
+- ✍️ 기술 블로그 (Velog): [velog.io/@dev-journey](https://velog.io/@dev-journey/series)
 
 ---
 
 ## 📫 연락처
 
-- **이메일**: your.email@example.com  
-- **Velog 블로그**: [velog.io/@yourid](https://velog.io/@yourid)  
-- **LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-
+- ✉️ 이메일: zmgma33@gmail.com
+  
 ---
 
 ## 💬 한 마디
 
-> "기술은 수단이고, 유저에게 즐거움을 주는 것이 목표입니다."
+> **"기술은 수단이고, 유저에게 재미와 감동을 주는 것이 진짜 목적입니다."**
 
+---
+
+<!-- 프로필 통계나 GitHub Stats를 추가하고 싶으시면 알려주세요! -->
