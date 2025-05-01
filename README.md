@@ -11,7 +11,25 @@
 </p>
 
 ----
-## 🛠 기술 스택
+## 🛠 Tech Stack
+<p align="left">
+
+  <!-- C# -->
+  <a href="https://learn.microsoft.com/ko-kr/dotnet/csharp/">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  </a>
+
+  <!-- C++ -->
+  <a href="https://isocpp.org/">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  </a>
+
+  <!-- HLSL (로고 없음 → 커스텀 텍스트 뱃지) -->
+  <a href="https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl">
+    <img src="https://img.shields.io/badge/HLSL-3366cc?style=for-the-badge&logoColor=white" alt="HLSL" />
+  </a>
+
+</p>
 
 
 <p align="left">
