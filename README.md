@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/HLSL-3366cc?style=for-the-badge&logoColor=white" alt="HLSL" />
   <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/WinAPI-005B9A?style=for-the-badge&logoColor=white" alt="WinAPI" />
-  <img src="https://img.shields.io/badge/DirectX11-0A5CAB?style=for-the-badge&logoColor=white" alt="DirectX 11" />
+  <img src="https://img.shields.io/badge/DirectX11-78C850?style=for-the-badge&logoColor=white" alt="DirectX 11" />
 </p>
 
 <br>
