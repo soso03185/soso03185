@@ -2,29 +2,28 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E89FF,100:00C896&height=200&section=header&text=👋%20언제나%20재밌는%20게임을%20만들고%20있습니다.&fontAlign=50&fontAlignY=40&fontSize=30&fontColor=ffffff" alt="capsule banner" />
 </p>
 
- 
-  ## 👨‍💻 Contact
-  
+## 👨‍💻 Contact
+
 <p align="center">
- 
-  ✉️ email : <strong>zmgma33@gmail.com</strong> <br>
+  ✉️ email : <strong>zmgma33@gmail.com</strong> <br><br>
+
   <!-- Notion -->
   <a href="https://www.notion.so/Portfolio-1074f3e7507c42079daf1341aa3c9ce5" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-  </a> <br>
-  
+  </a>
+
   <!-- Velog -->
   <a href="https://velog.io/@dev-journey/series" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" />
   </a>
 </p>
 
-----
+---
 
 ## 🛠 Tech Stack
-  
+
 <p align="center">
-  
+
   <!-- C# -->
   <a href="https://learn.microsoft.com/ko-kr/dotnet/csharp/">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -43,8 +42,13 @@
   <!-- Unity -->
   <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 
-<br>
+</p>
 
+---
+
+## 🧩 협업 도구
+
+<p align="center">
   <!-- GitHub -->
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
@@ -53,12 +57,12 @@
 
   <!-- TortoiseSVN -->
   <img src="https://img.shields.io/badge/TortoiseSVN-35495E?style=for-the-badge&logoColor=white" alt="TortoiseSVN" />
-
-
 </p>
 
 ---
+
 ## 💼 프로젝트
+
 ### 🎓 졸업작품 – 캐주얼 모바일 게임
 - Google Play 출시: [**기계소녀**](https://play.google.com/store/apps/details?id=com.machineGirl.firebasedb&hl=ko)  
 - 주요 업무: Firebase 연동, 튜토리얼 & 퀘스트, Shader Graph, 최적화
