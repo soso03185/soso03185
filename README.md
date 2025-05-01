@@ -19,8 +19,8 @@
 </p>
 <br>
 
- <hr style="width: 40%; margin: 24px auto; border: 0.3px solid #ccc;" />
- 
+<hr style="width: 20%; margin: 24px auto; border: 0.5px solid #ccc;" />
+
 <h3 align="center">🛠Tech Stack🛠</h3>
 
 <p align="center">
