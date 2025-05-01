@@ -30,6 +30,18 @@
 </p>
 
 ---
+## 🗓️ GitHub 활동 그래프
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soso03185&theme=tokyo-night&area=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=soso03185&label=Profile+views&color=2e89ff&style=flat" alt="soso03185's profile views"/>
+</p>
+
+---
 
 ## 📎 포트폴리오 & 블로그
 
