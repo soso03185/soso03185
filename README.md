@@ -21,11 +21,11 @@
 ## 💼 프로젝트
 ### 🎓 졸업작품 – 캐주얼 모바일 게임
 - Google Play 출시: [**기계소녀**](https://play.google.com/store/apps/details?id=com.machineGirl.firebasedb&hl=ko)  
-- 주요 업무: Firebase 연동, 콘텐츠 시스템(튜토리얼 & 퀘스트), Shader Graph, 최적화
+- 주요 업무: Firebase 연동, 튜토리얼 & 퀘스트, Shader Graph, 최적화
 
 ### 🏃 3D 러너 게임 (개발 중)
 - 2D 도트 캐릭터 + 3D 곡선 타일 기반 러너  
-- 커브드 월드 셰이더 적용, 경량화 최적화, 타일 기반 월드 구현 중
+- 커브드 월드 셰이더 적용, 최적화, 타일 기반 월드 구현 중
 
 ---
 
