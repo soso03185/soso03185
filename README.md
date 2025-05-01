@@ -10,11 +10,21 @@
   ✍️ Velog : <a href="https://velog.io/@dev-journey/series">velog.io/@dev-journey</a>
 </p>
 
+  <!-- Notion -->
+  <a href="https://www.notion.so/Portfolio-1074f3e7507c42079daf1341aa3c9ce5" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  </a>
+
+  <!-- Velog -->
+  <a href="https://velog.io/@dev-journey/series" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" />
+  </a>
+  
 ----
 ## 🛠 Tech Stack
 ## 🛠 기술 스택
 
-<p align="left">
+<p align="center">
 
   <!-- C# -->
   <a href="https://learn.microsoft.com/ko-kr/dotnet/csharp/">
@@ -37,21 +47,12 @@
   <!-- GitHub -->
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
-  <!-- Notion -->
-  <a href="https://www.notion.so/Portfolio-1074f3e7507c42079daf1341aa3c9ce5" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-  </a>
-
   <!-- Slack -->
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
 
   <!-- TortoiseSVN -->
   <img src="https://img.shields.io/badge/TortoiseSVN-35495E?style=for-the-badge&logoColor=white" alt="TortoiseSVN" />
 
-  <!-- Velog -->
-  <a href="https://velog.io/@dev-journey/series" target="_blank">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" />
-  </a>
 
 </p>
 
