@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" />
   </a>
 </p>
-<br>
+<br><br>
  
 <h2 align="center"> 🛠 Tech Stack </h2>
 
@@ -41,9 +41,9 @@
   <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 
 </p>
-<br>
+<br><br>
 
-<h2 align="center"> 🧩 협업 도구 </h2>
+<h2 align="center"> 🧩 Tools </h2>
 
 <p align="center">
   <!-- GitHub -->
