@@ -11,6 +11,12 @@
 </p>
 
 ---
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="Unity" />
+  <img src="https://raw.githubusercontent.com/shader-slang/slang/master/doc/img/slang-logo.svg" width="40" height="40" alt="HLSL" />
+</p>
 
 ## 🔧 사용 기술
 - **언어**: C# (Unity 중심), C++
