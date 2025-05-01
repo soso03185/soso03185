@@ -22,7 +22,6 @@
 - 📘 Notion 포트폴리오: [포트폴리오 보러가기](https://www.notion.so/Portfolio-1074f3e7507c42079daf1341aa3c9ce5)  
 - ✍️ 기술 블로그 (Velog): [velog.io/@dev-journey](https://velog.io/@dev-journey/series)
 
----
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soso03185&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" height="180em"/>
