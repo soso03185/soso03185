@@ -5,7 +5,7 @@
 <h3 align="center">👨‍💻 Contact</h3>
 
 <p align="left">
-  ✉️ <strong>zmgma33@gmail.com</strong> <br>
+  ✉️ email : <strong>zmgma33@gmail.com</strong> <br>
   📘 Notion : <a href="https://www.notion.so/Portfolio-1074f3e7507c42079daf1341aa3c9ce5">포트폴리오 보러가기 (Notion)</a> <br>
   ✍️ Velog : <a href="https://velog.io/@dev-journey/series">velog.io/@dev-journey</a>
 </p>
