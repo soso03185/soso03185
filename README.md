@@ -2,17 +2,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E89FF,100:00C896&height=200&section=header&text=김재현의%20GitHub%20Profile&fontAlign=50&fontAlignY=40&fontSize=40&fontColor=ffffff" alt="capsule banner" />
 </p>
 
-<h1 align="center">👋 언제나 재미있는 게임을 만들고 있는, 김재현입니다.</h1>
+<h3 align="center">👋 언제나 재밌는 게임을 만들고 있습니다.</h3>
+- ✉️ zmgma33@gmail.com
+- 📘 Notion : [포트폴리오 보러가기](https://www.notion.so/Portfolio-1074f3e7507c42079daf1341aa3c9ce5)  
+- ✍️ Velog : [velog.io/@dev-journey](https://velog.io/@dev-journey/series)
 
 ---
 
 ## 🔧 사용 기술
-- **언어**: C# (Unity 중심)  
+- **언어**: C# (Unity 중심), C++
 - **게임 엔진**: Unity (URP, Shader Graph)  
-- **툴 & 협업**: Git/GitHub, Notion, Slack  
+- **툴 & 협업**: GitHub Desktop, Notion, Slack, TortoiseSVN
 
 ---
-
 ## 💼 프로젝트
 
 ### 🎓 졸업작품 – 캐주얼 모바일 게임
@@ -22,12 +24,6 @@
 ### 🏃 3D 러너 게임 (개발 중)
 - 2D 도트 캐릭터 + 3D 곡선 타일 기반 러너  
 - 커브드 월드 셰이더 적용, 경량화 최적화, 타일 기반 월드 프로시저 생성 구현 중
-
----
-
-## 📎 포트폴리오 & 블로그
-- 📘 Notion 포트폴리오: [포트폴리오 보러가기](https://www.notion.so/Portfolio-1074f3e7507c42079daf1341aa3c9ce5)  
-- ✍️ 기술 블로그 (Velog): [velog.io/@dev-journey](https://velog.io/@dev-journey/series)
 
 ---
 
@@ -42,7 +38,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=soso03185&theme=tokyo-night&area=true" width="80%" alt="GitHub Activity Graph" />
 </p>
 
----
-
-## 📫 연락처
-- ✉️ 이메일: zmgma33@gmail.com
