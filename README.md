@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Nanum+Gothic&size=24&pause=1000&color=2E89FF&center=true&vCenter=true&width=600&lines=Unity+클라이언트+개발자+지망생;모바일+캐주얼+게임에+관심이+많습니다.;Shader+Graph%2C+LINQ+%EB%93%B1+%EC%97%AC%EB%9F%AC+%EA%B8%B0%EC%88%A0%EC%9D%84+%EC%97%B0%EC%8A%B5%ED%95%98%EA%B3%A0+%EC%9E%88%EC%9A%94.;게임%EC%9D%84+%EB%A7%8C%EB%93%A4%EB%A9%B4%EC%84%9C+%ED%95%84%EB%93%A0+%EC%9E%90%EB%A6%AC%EB%A5%BC+%ED%95%9C%EB%8B%A4!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Nanum+Gothic&size=24&pause=1000&color=2E89FF&center=true&vCenter=true&width=700&lines=Unity+클라이언트+개발자+지망생;모바일+캐주얼+게임에+관심이+많습니다.;Shader+Graph%2C+LINQ+%EB%93%B1+%EA%B8%B0%EC%88%A0%EC%9D%84+%EC%97%B0%EC%8A%B5%ED%95%98%EA%B3%A0+%EC%9E%88%EC%9A%94.;게임%EC%9D%84+%EB%A7%8C%EB%93%A4%EB%A9%B4%EC%84%9C+%ED%95%84%EB%93%A0+%EC%9E%90%EB%A6%AC%EB%A5%BC+%ED%95%9C%EB%8B%A4!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,7 +12,8 @@
 
 - **언어**: C# (Unity 중심)
 - **게임 엔진**: Unity (URP, Shader Graph)  
-- **툴 & 협업**: Git/GitHub, Notion, Slack
+- **툴 & 협업**: Git/GitHub, Notion, Slack  
+
 ---
 
 ## 💼 프로젝트
@@ -27,6 +28,18 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soso03185&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soso03185&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
+---
+
 ## 📎 포트폴리오 & 블로그
 
 - 📘 Notion 포트폴리오: [포트폴리오 보러가기](https://www.notion.so/Portfolio-1074f3e7507c42079daf1341aa3c9ce5)
@@ -37,13 +50,10 @@
 ## 📫 연락처
 
 - ✉️ 이메일: zmgma33@gmail.com
-  
+
 ---
 
 ## 💬 한 마디
 
 > **"기술은 수단이고, 유저에게 재미와 감동을 주는 것이 진짜 목적입니다."**
 
----
-
-<!-- 프로필 통계나 GitHub Stats를 추가하고 싶으시면 알려주세요! -->
