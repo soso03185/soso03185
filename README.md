@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E89FF,100:00C896&height=200&section=header&text=👋%20언제나%20재밌는%20게임을%20만들고%20있습니다.&fontAlign=50&fontAlignY=40&fontSize=30&fontColor=ffffff" alt="capsule banner" />
 </p>
 
-
-<p align="center">
-  
+ 
   ## 👨‍💻 Contact
   
+<p align="center">
+ 
   ✉️ email : <strong>zmgma33@gmail.com</strong> <br>
   <!-- Notion -->
   <a href="https://www.notion.so/Portfolio-1074f3e7507c42079daf1341aa3c9ce5" target="_blank">
@@ -21,9 +21,9 @@
 
 ----
 
-<p align="center">
-  
 ## 🛠 Tech Stack
+  
+<p align="center">
   
   <!-- C# -->
   <a href="https://learn.microsoft.com/ko-kr/dotnet/csharp/">
