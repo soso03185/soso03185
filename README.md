@@ -5,7 +5,6 @@
 <h3 align="center">📝Writing📝</h3>
 
 <p align="center">
-  ✉️ email : <strong>zmgma33@gmail.com</strong> <br><br>
 
   <!-- Notion -->
   <a href="https://www.notion.so/Portfolio-1074f3e7507c42079daf1341aa3c9ce5" target="_blank">
@@ -18,7 +17,7 @@
   </a>
 </p>
 
-<p align="center">·················</p>
+<p align="center">✦ ✦ ✦</p>
 
 <h3 align="center">🛠Tech Stack🛠</h3>
 
@@ -43,7 +42,7 @@
 
 </p>
 
-<p align="center">·················</p>
+<p align="center">✦ ✦ ✦</p>
 
 <h3 align="center">🧩Tools🧩</h3>
 
@@ -58,7 +57,7 @@
   <img src="https://img.shields.io/badge/TortoiseSVN-35495E?style=for-the-badge&logoColor=white" alt="TortoiseSVN" />
 </p>
 
-<p align="center">·················</p>
+<p align="center">✦ ✦ ✦</p>
 
 ## 💼 프로젝트
 
