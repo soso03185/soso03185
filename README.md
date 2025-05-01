@@ -57,14 +57,6 @@
 
 </p>
 
-
-
- 
-## 🔧 사용 기술
-- **언어**: C# (Unity 중심), C++
-- **게임 엔진**: Unity (URP, Shader Graph)  
-- **툴 & 협업**: GitHub Desktop, Notion, Slack, TortoiseSVN
-
 ---
 ## 💼 프로젝트
 ### 🎓 졸업작품 – 캐주얼 모바일 게임
