@@ -12,26 +12,33 @@
 
 ----
 ## 🛠 기술 스택
- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<!-- Unity -->
-![Unity](https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white)
 
-<!-- GitHub -->
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="left">
 
-<!-- Notion -->
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+  <!-- Unity -->
+  <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 
-<!-- Slack -->
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+  <!-- GitHub -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
-<!-- TortoiseSVN -->
-![TortoiseSVN](https://img.shields.io/badge/TortoiseSVN-35495E?style=for-the-badge&logoColor=white)
+  <!-- Notion (링크 적용) -->
+  <a href="https://www.notion.so/Portfolio-1074f3e7507c42079daf1341aa3c9ce5" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  </a>
 
-<!-- Velog (커스텀 뱃지) -->
-![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)
+  <!-- Slack -->
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+
+  <!-- TortoiseSVN -->
+  <img src="https://img.shields.io/badge/TortoiseSVN-35495E?style=for-the-badge&logoColor=white" alt="TortoiseSVN" />
+
+  <!-- Velog (링크 적용) -->
+  <a href="https://velog.io/@dev-journey/series" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" />
+  </a>
+
+</p>
 
 
 
