@@ -4,7 +4,7 @@
 
 <h3 align="left">👨‍💻 Contact</h3>
 
-<p align="left">
+<p align="center">
   ✉️ email : <strong>zmgma33@gmail.com</strong> <br>
   📘 Notion : <a href="https://www.notion.so/Portfolio-1074f3e7507c42079daf1341aa3c9ce5">포트폴리오 보러가기 (Notion)</a> <br>
   ✍️ Velog : <a href="https://velog.io/@dev-journey/series">velog.io/@dev-journey</a>
@@ -22,8 +22,6 @@
   
 ----
 ## 🛠 Tech Stack
-## 🛠 기술 스택
-
 <p align="center">
 
   <!-- C# -->
@@ -43,6 +41,8 @@
 
   <!-- Unity -->
   <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+
+<br>
 
   <!-- GitHub -->
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
