@@ -68,17 +68,19 @@
 <div align="center">
 
   <h4>🎮 <a href="https://play.google.com/store/apps/details?id=com.machineGirl.firebasedb&hl=ko">기계소녀</a> – 캐주얼 모바일 게임</h4>
-  <p>Google Play에 출시된 졸업작품</p>
-  <p>Firebase 연동 · 튜토리얼 & 퀘스트 시스템 · Shader Graph 연출 · 퍼포먼스 최적화</p>
+  <p style="margin: 2px 0;">Google Play에 출시된 졸업작품</p>
+  <p style="margin: 2px 0;">Firebase 연동 · 튜토리얼 & 퀘스트 시스템 · Shader Graph 연출 · 퍼포먼스 최적화</p>
+
+  <hr style="width: 40%; border: 0.5px solid #ccc;" />
 
   <h4>🏃‍♂️ <a href="https://velog.io/@dev-journey/series/2.5D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8">3D 러너 게임</a> (개발 중)</h4>
-  <p>커브드 월드 셰이더 · 타일 기반 월드 생성 · 경량화 최적화 진행 중</p>
+  <p style="margin: 2px 0;">2D 도트 캐릭터 + 3D 곡선 타일 기반 러너</p>
+  <p style="margin: 2px 0;">커브드 월드 셰이더 · 타일 기반 월드 생성 · 경량화 최적화 진행 중</p>
 </div>
 
 <br>
 <p align="center">✦ ✦ ✦</p>
 <br>
-
 
 ## 📊 GitHub Stats
 
