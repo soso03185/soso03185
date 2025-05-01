@@ -35,8 +35,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=soso03185&show_icons=true&theme=tokyonight&hide_title=true" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soso03185&layout=compact&theme=tokyonight" height="180em"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soso03185&theme=tokyo-night&area=true" width="80%" alt="GitHub Activity Graph" />
-</p>
-
