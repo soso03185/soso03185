@@ -2,27 +2,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E89FF,100:00C896&height=200&section=header&text=👋%20언제나%20재밌는%20게임을%20만들고%20있습니다.&fontAlign=50&fontAlignY=40&fontSize=30&fontColor=ffffff" alt="capsule banner" />
 </p>
 
-<h3 align="left">👨‍💻 Contact</h3>
-
+## 👨‍💻 Contact
 <p align="center">
   ✉️ email : <strong>zmgma33@gmail.com</strong> <br>
-  📘 Notion :  <!-- Notion -->
-  <a href="https://www.notion.so/Portfolio-1074f3e7507c42079daf1341aa3c9ce5" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-  </a> <br>
-  ✍️ Velog : <a href="https://velog.io/@dev-journey/series">velog.io/@dev-journey</a>
-</p>
-
   <!-- Notion -->
   <a href="https://www.notion.so/Portfolio-1074f3e7507c42079daf1341aa3c9ce5" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-  </a>
-
+  </a> <br>
+  
   <!-- Velog -->
   <a href="https://velog.io/@dev-journey/series" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" />
   </a>
-  
+</p>
+
 ----
 ## 🛠 Tech Stack
 <p align="center">
