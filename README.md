@@ -10,10 +10,28 @@
   ✍️ Velog : <a href="https://velog.io/@dev-journey/series">velog.io/@dev-journey</a>
 </p>
 
----
+----
 ## 🛠 기술 스택
  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+<!-- Unity -->
+![Unity](https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white)
+
+<!-- GitHub -->
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<!-- Notion -->
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+<!-- Slack -->
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+<!-- TortoiseSVN (전용 아이콘은 없음 → 커스텀 텍스트로 대체) -->
+![TortoiseSVN](https://img.shields.io/badge/TortoiseSVN-35495E?style=for-the-badge&logoColor=white)
+
+
 
 
 ## 🔧 사용 기술
