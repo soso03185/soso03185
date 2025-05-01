@@ -54,9 +54,9 @@
 <h3 align="center">🗂️ Project 🗂️</h3>
 
 <p align="center">
-  🎮 <a href="https://play.google.com/store/apps/details?id=com.machineGirl.firebasedb&hl=ko">기계소녀</a> (출시)
+  🎮 <a href="https://play.google.com/store/apps/details?id=com.machineGirl.firebasedb&hl=ko"><strong>기계소녀</strong></a> (출시)
   <br>
-  🏃‍♂️ <a href="https://velog.io/@dev-journey/series/2.5D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8">3D 러너 게임</a> (개발 중)
+  🏃‍♂️ <a href="https://velog.io/@dev-journey/series/2.5D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8"><strong>3D 러너 게임</strong></a> (개발 중)
 </p>
 
 <p align="center">
