@@ -18,8 +18,6 @@
 </p>
 
 <br>
-<p align="center">✦ ✦ ✦</p>
-<br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -44,8 +42,6 @@
 </p>
 
 <br>
-<p align="center">✦ ✦ ✦</p>
-<br>
 
 <h3 align="center">🧩 Tools 🧩</h3>
 
@@ -60,8 +56,6 @@
   <img src="https://img.shields.io/badge/TortoiseSVN-35495E?style=for-the-badge&logoColor=white" alt="TortoiseSVN" />
 </p>
 
-<br>
-<p align="center">✦ ✦ ✦</p>
 <br>
 
 <h3 align="center">🗂️ Project 🗂️</h3>
