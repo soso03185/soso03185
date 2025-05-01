@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E89FF,100:00C896&height=200&section=header&text=👋%20언제나%20재밌는%20게임을%20만들고%20있습니다.&fontAlign=50&fontAlignY=40&fontSize=30&fontColor=ffffff" alt="capsule banner" />
 </p>
-
+<br>
 <h2 align="center">👨‍💻 Contact</h2>
 
 <p align="center">
@@ -17,7 +17,8 @@
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" />
   </a>
 </p>
-
+<br>
+ 
 <h2 align="center"> 🛠 Tech Stack </h2>
 
 <p align="center">
@@ -40,7 +41,7 @@
   <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 
 </p>
-
+<br>
 
 <h2 align="center"> 🧩 협업 도구 </h2>
 
