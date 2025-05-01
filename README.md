@@ -41,6 +41,16 @@
   <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 </p>
 
+ <!-- WinAPI -->
+  <a href="https://learn.microsoft.com/en-us/windows/win32/api/">
+    <img src="https://img.shields.io/badge/WinAPI-0078D6?style=for-the-badge&logoColor=white" alt="WinAPI" />
+  </a>
+
+  <!-- DirectX 11 -->
+  <a href="https://learn.microsoft.com/en-us/windows/win32/direct3d11/direct3d-11-graphics">
+    <img src="https://img.shields.io/badge/DirectX11-0082C9?style=for-the-badge&logoColor=white" alt="DirectX 11" />
+  </a>
+  
 <br>
 
 <h3 align="center">🧩 Tools 🧩</h3>
