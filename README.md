@@ -10,8 +10,6 @@
 ### 🛠 사용 기술 (Tech Stack)
 - **언어**: C#, Python, JavaScript  
 - **엔진 & 툴**: Unity (URP, Shader Graph), Git, GitHub, Firebase  
-- **기타**: Suno AI, Midjourney, Figma, After Effects
-
 ---
 
 ### 📂 주요 프로젝트
@@ -21,10 +19,6 @@
 
 - 🏃 **3D 타일 기반 러너 게임 (개발 중)**  
   곡선형 타일 경로, 2D 캐릭터 + 3D 배경, 실시간 타일 스포닝 및 셰이더 연출 적용
-
-- 🎵 **AI 음악 채널 운영 중**  
-  안예은 스타일의 전통 퓨전 발라드, 사이버펑크풍 일러스트와 함께 업로드 중
-
 ---
 
 ### 📫 연락처
