@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E89FF,100:00C896&height=200&section=header&text=👋%20언제나%20재밌는%20게임을%20만들고%20있습니다.&fontAlign=50&fontAlignY=40&fontSize=30&fontColor=ffffff" alt="capsule banner" />
 </p>
 
-<h3 align="center">📝Writing📝</h3>
+<h3 align="center">📝 Writing 📝</h3>
 
 <p align="center">
 
@@ -19,9 +19,9 @@
 
 <br>
 <p align="center">✦ ✦ ✦</p>
+<br>
 
-
-<h3 align="center">🛠Tech Stack🛠</h3>
+<h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
   <!-- C# -->
@@ -47,7 +47,7 @@
 <p align="center">✦ ✦ ✦</p>
 <br>
 
-<h3 align="center">🧩Tools🧩</h3>
+<h3 align="center">🧩 Tools 🧩</h3>
 
 <p align="center">
   <!-- GitHub -->
@@ -80,8 +80,7 @@
 <p align="center">✦ ✦ ✦</p>
 <br>
 
-## 📊 GitHub Stats
-
+<h3 align="center">📊 GitHub Stats 📊</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soso03185&show_icons=true&theme=tokyonight&hide_title=true" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soso03185&layout=compact&theme=tokyonight" height="180em"/>
