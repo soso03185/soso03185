@@ -1,12 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E89FF,100:00C896&height=200&section=header&text=김재현의%20GitHub%20Profile&fontAlign=50&fontAlignY=40&fontSize=40&fontColor=ffffff" alt="capsule banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E89FF,100:00C896&height=200&section=header&text=👋%20언제나%20재밌는%20게임을%20만들고%20있습니다.&fontAlign=50&fontAlignY=40&fontSize=30&fontColor=ffffff" alt="capsule banner" />
 </p>
 
-<h3 align="center">👋 언제나 재밌는 게임을 만들고 있습니다.</h3>
-- ✉️ zmgma33@gmail.com
-- 📘 Notion : [포트폴리오 보러가기](https://www.notion.so/Portfolio-1074f3e7507c42079daf1341aa3c9ce5)  
-- ✍️ Velog : [velog.io/@dev-journey](https://velog.io/@dev-journey/series)
+<h3 align="center">👨‍💻 Contact</h3>
 
+<p align="center">
+  ✉️ <strong>zmgma33@gmail.com</strong> <br>
+  📘 <a href="https://www.notion.so/Portfolio-1074f3e7507c42079daf1341aa3c9ce5">포트폴리오 보러가기 (Notion)</a> <br>
+  ✍️ <a href="https://velog.io/@dev-journey/series">velog.io/@dev-journey</a>
+</p>
 ---
 
 ## 🔧 사용 기술
