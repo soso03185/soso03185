@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E89FF,100:00C896&height=200&section=header&text=👋%20언제나%20재밌는%20게임을%20만들고%20있습니다.&fontAlign=50&fontAlignY=40&fontSize=30&fontColor=ffffff" alt="capsule banner" />
 </p>
-<br>
+
 <h2 align="center">👨‍💻 Contact</h2>
 
 <p align="center">
