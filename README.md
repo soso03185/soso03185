@@ -12,25 +12,8 @@
 
 ---
 ## 🛠 기술 스택
-
-<p align="left">
-  <a href="https://learn.microsoft.com/ko-kr/dotnet/csharp/">
-    <img src="https://github.com/soso03185/soso03185/blob/main/assets/c%23.png?raw=true" width="40" height="40" alt="C#" />
-  </a>
-  <a href="https://isocpp.org/">
-    <img src="https://github.com/soso03185/soso03185/blob/main/assets/c%2B%2B.png?raw=true" width="40" height="40" alt="C++" />
-  </a>
-  <a href="https://unity.com/">
-    <img src="https://github.com/soso03185/soso03185/blob/main/assets/unity.png?raw=true" width="40" height="40" alt="Unity" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl">
-    <img src="https://github.com/soso03185/soso03185/blob/main/assets/hlsl.png?raw=true" width="40" height="40" alt="HLSL" />
-  </a>
-  <a href="https://velog.io/@dev-journey/series">
-    <img src="https://github.com/soso03185/soso03185/blob/main/assets/velog1.png?raw=true" width="40" height="40" alt="Velog" />
-  </a>
-</p>
-
+ ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
 ## 🔧 사용 기술
