@@ -62,6 +62,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=100:00C896,0:2E89FF&height=150&section=footer&text=Thanks%20for%20visiting!&fontAlign=50&fontColor=ffffff&fontSize=20" alt="footer banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=100:00C896,0:2E89FF&height=120&section=footer" alt="footer banner"/>
 </p>
-
