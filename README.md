@@ -20,10 +20,9 @@
 
 ---
 
-## 🛠 Tech Stack
+<h2 align="center"> 🛠 Tech Stack </h2>
 
 <p align="center">
-
   <!-- C# -->
   <a href="https://learn.microsoft.com/ko-kr/dotnet/csharp/">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -46,7 +45,7 @@
 
 ---
 
-## 🧩 협업 도구
+<h2 align="center"> 🧩 협업 도구 </h2>
 
 <p align="center">
   <!-- GitHub -->
