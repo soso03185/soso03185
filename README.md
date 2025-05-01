@@ -17,7 +17,6 @@
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" />
   </a>
 </p>
-<br>
 
 <hr style="width: 20%; margin: 24px auto; border: 0.5px solid #ccc;" />
 
@@ -43,7 +42,8 @@
   <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 
 </p>
-<br><br>
+
+<hr style="width: 20%; margin: 24px auto; border: 0.5px solid #ccc;" />
 
 <h3 align="center">🧩Tools🧩</h3>
 
@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/TortoiseSVN-35495E?style=for-the-badge&logoColor=white" alt="TortoiseSVN" />
 </p>
 
-<br><br>
+<hr style="width: 20%; margin: 24px auto; border: 0.5px solid #ccc;" />
 
 ## 💼 프로젝트
 
