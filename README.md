@@ -15,7 +15,6 @@
  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-
 <!-- Unity -->
 ![Unity](https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white)
 
@@ -28,8 +27,11 @@
 <!-- Slack -->
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-<!-- TortoiseSVN (전용 아이콘은 없음 → 커스텀 텍스트로 대체) -->
+<!-- TortoiseSVN -->
 ![TortoiseSVN](https://img.shields.io/badge/TortoiseSVN-35495E?style=for-the-badge&logoColor=white)
+
+<!-- Velog (커스텀 뱃지) -->
+![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)
 
 
 
