@@ -29,8 +29,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soso03185&layout=compact&theme=tokyonight" alt="Top Languages" height="180em"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soso03185&theme=tokyo-night&area=true" width="80%" alt="GitHub Activity Graph" />
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soso03185&theme=tokyo-night&area=true" width="65%" alt="GitHub Activity Graph" />
 </p>
 
 ---
