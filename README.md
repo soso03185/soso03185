@@ -11,18 +11,28 @@
 </p>
 
 ---
+## 🛠 기술 스택
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="Unity" />
-  <img src="https://raw.githubusercontent.com/shader-slang/slang/master/doc/img/slang-logo.svg" width="40" height="40" alt="HLSL" />
+  <a href="https://learn.microsoft.com/ko-kr/dotnet/csharp/">
+    <img src="https://github.com/soso03185/soso03185/blob/main/assets/c%23.png?raw=true" width="40" height="40" alt="C#" />
+  </a>
+  <a href="https://isocpp.org/">
+    <img src="https://github.com/soso03185/soso03185/blob/main/assets/c%2B%2B.png?raw=true" width="40" height="40" alt="C++" />
+  </a>
+  <a href="https://unity.com/">
+    <img src="https://github.com/soso03185/soso03185/blob/main/assets/unity.png?raw=true" width="40" height="40" alt="Unity" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl">
+    <img src="https://github.com/soso03185/soso03185/blob/main/assets/hlsl.png?raw=true" width="40" height="40" alt="HLSL" />
+  </a>
+  <a href="https://velog.io/@dev-journey/series">
+    <img src="https://github.com/soso03185/soso03185/blob/main/assets/velog1.png?raw=true" width="40" height="40" alt="Velog" />
+  </a>
 </p>
-<p align="left">
-  <img src="/mnt/data/c%23.png" alt="C#" width="40" height="40"/>
-  <img src="/mnt/data/c++.png" alt="C++" width="40" height="40"/>
-  <img src="/mnt/data/unity.png" alt="Unity" width="40" height="40"/>
-  <img src="/mnt/data/hlsl.png" alt="HLSL" width="40" height="40"/>
-</p>
+
+
+
 ## 🔧 사용 기술
 - **언어**: C# (Unity 중심), C++
 - **게임 엔진**: Unity (URP, Shader Graph)  
