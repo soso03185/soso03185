@@ -59,15 +59,13 @@
 <br>
 
 <h3 align="center">🗂️ Project 🗂️</h3>
-<div align="center">
-  <h4>🎮 <a href="https://play.google.com/store/apps/details?id=com.machineGirl.firebasedb&hl=ko">기계소녀</a> (출시)</h4>
-  Firebase 연동 · 튜토리얼 & 퀘스트 시스템 · Shader Graph 연출 · 퍼포먼스 최적화
-  
-<br>
-  
-  <h4>🏃‍♂️ <a href="https://velog.io/@dev-journey/series/2.5D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8">3D 러너 게임</a> (개발 중)</h4>
-  커브드 월드 셰이더 · 타일 기반 월드 생성 · 경량화 최적화 진행 중
-</div>
+
+<p align="center">
+  🎮 <a href="https://play.google.com/store/apps/details?id=com.machineGirl.firebasedb&hl=ko">기계소녀</a> (출시) — Firebase 연동 · 튜토리얼 & 퀘스트 시스템 · Shader Graph 연출 · 퍼포먼스 최적화  
+  <br>
+  🏃‍♂️ <a href="https://velog.io/@dev-journey/series/2.5D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8">3D 러너 게임</a> (개발 중) — 커브드 월드 셰이더 · 타일 기반 월드 생성 · 경량화 최적화 진행 중
+</p>
+
 
 
 <br><br>
