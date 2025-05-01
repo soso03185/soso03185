@@ -2,6 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E89FF,100:00C896&height=200&section=header&text=👋%20언제나%20재밌는%20게임을%20만들고%20있습니다.&fontAlign=50&fontAlignY=40&fontSize=30&fontColor=ffffff" alt="capsule banner" />
 </p>
 
+<h3 align="center">📊 GitHub Stats 📊</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soso03185&show_icons=true&hide_title=true&theme=default&bg_color=00000000&title_color=2E89FF&text_color=444444&icon_color=00C896&border_color=DDDDDD" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soso03185&layout=compact&theme=default&bg_color=00000000&title_color=2E89FF&text_color=444444&icon_color=00C896&border_color=DDDDDD" height="180em"/>
+</p>
+
+<br><br>
+<p align="center">✦ ✦ ✦</p>
+<br>
+
 <h3 align="center">🔗 Link 🔗</h3>
 
 <p align="center">
@@ -50,15 +61,4 @@
   <br><br>
   🏃‍♂️ <a href="https://velog.io/@dev-journey/series/2.5D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8">3D 러너 게임</a> (개발 중) <br>
   커브드 월드 셰이더 · 타일 기반 월드 생성 · 최적화 진행 중
-</p>
-
-<br><br>
-<p align="center">✦ ✦ ✦</p>
-<br>
-
-<h3 align="center">📊 GitHub Stats 📊</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soso03185&show_icons=true&hide_title=true&theme=default&bg_color=00000000&title_color=2E89FF&text_color=444444&icon_color=00C896&border_color=DDDDDD" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soso03185&layout=compact&theme=default&bg_color=00000000&title_color=2E89FF&text_color=444444&icon_color=00C896&border_color=DDDDDD" height="180em"/>
 </p>
