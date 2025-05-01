@@ -19,9 +19,8 @@
 
 ---
 ## 💼 프로젝트
-
 ### 🎓 졸업작품 – 캐주얼 모바일 게임
-- Google Play 출시: **기계소녀**  
+- Google Play 출시: [**기계소녀**](https://play.google.com/store/apps/details?id=com.machineGirl.firebasedb&hl=ko)  
 - 주요 업무: Firebase 연동, 콘텐츠 시스템(튜토리얼 & 퀘스트), Shader Graph, 최적화
 
 ### 🏃 3D 러너 게임 (개발 중)
