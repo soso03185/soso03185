@@ -64,17 +64,18 @@
 <p align="center">✦ ✦ ✦</p>
 <br>
 
-## 💼 프로젝트
+<h3 align="center">🗂️Project🗂️</h3>
 
-### 🎓 졸업작품 – 캐주얼 모바일 게임
-- Google Play 출시: [**기계소녀**](https://play.google.com/store/apps/details?id=com.machineGirl.firebasedb&hl=ko)  
-- 주요 업무: Firebase 연동, 튜토리얼 & 퀘스트, Shader Graph, 최적화
-
-### 🏃 3D 러너 게임 (개발 중)
-- 2D 도트 캐릭터 + 3D 곡선 타일 기반 러너  
-- 커브드 월드 셰이더 적용, 최적화, 타일 기반 월드 구현 중
+### 🎮 [기계소녀 – 캐주얼 모바일 게임](https://play.google.com/store/apps/details?id=com.machineGirl.firebasedb&hl=ko)
+- Google Play에 출시된 졸업작품
+- 주요 업무: Firebase 연동, 튜토리얼 & 퀘스트, Shader Graph 기반 연출, 퍼포먼스 최적화
 
 ---
+
+### 🏃‍♂️ [2.5D 러너 게임 (개발 중)](https://velog.io/@dev-journey/series/2.5D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+- 2D 도트 캐릭터 + 3D 곡선 타일 기반 러너
+- 커브드 월드 셰이더 적용, 타일 기반 월드 프로시저 생성, 경량화 최적화 진행 중
+
 
 ## 📊 GitHub Stats
 
