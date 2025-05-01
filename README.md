@@ -8,8 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=soso03185&show_icons=true&hide_title=true&theme=default&bg_color=00000000&title_color=2E89FF&text_color=444444&icon_color=00C896&border_color=DDDDDD" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soso03185&layout=compact&theme=default&bg_color=00000000&title_color=2E89FF&text_color=444444&icon_color=00C896&border_color=DDDDDD" height="180em"/>
 </p>
-
-<br><br>
 <p align="center">✦ ✦ ✦</p>
 <br>
 
