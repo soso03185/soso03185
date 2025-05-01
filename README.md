@@ -18,8 +18,6 @@
   </a>
 </p>
 
----
-
 <h2 align="center"> 🛠 Tech Stack </h2>
 
 <p align="center">
@@ -43,7 +41,6 @@
 
 </p>
 
----
 
 <h2 align="center"> 🧩 협업 도구 </h2>
 
@@ -58,7 +55,6 @@
   <img src="https://img.shields.io/badge/TortoiseSVN-35495E?style=for-the-badge&logoColor=white" alt="TortoiseSVN" />
 </p>
 
----
 
 ## 💼 프로젝트
 
