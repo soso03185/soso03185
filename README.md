@@ -17,7 +17,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="Unity" />
   <img src="https://raw.githubusercontent.com/shader-slang/slang/master/doc/img/slang-logo.svg" width="40" height="40" alt="HLSL" />
 </p>
-
+<p align="left">
+  <img src="/mnt/data/c%23.png" alt="C#" width="40" height="40"/>
+  <img src="/mnt/data/c++.png" alt="C++" width="40" height="40"/>
+  <img src="/mnt/data/unity.png" alt="Unity" width="40" height="40"/>
+  <img src="/mnt/data/hlsl.png" alt="HLSL" width="40" height="40"/>
+</p>
 ## 🔧 사용 기술
 - **언어**: C# (Unity 중심), C++
 - **게임 엔진**: Unity (URP, Shader Graph)  
