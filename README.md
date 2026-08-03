@@ -62,3 +62,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=100:00C896,0:2E89FF&height=120&section=footer" alt="footer banner"/>
 </p>
+
+[![TokenPhage](https://api.tokenphage.com/badge/soso03185)](https://github.com/TOKENPHAGE)
+  
