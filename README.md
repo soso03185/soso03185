@@ -62,12 +62,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=soso03185&show_icons=true&hide_title=true&bg_color=00000000&text_color=444444&icon_color=00C896&border_color=DDDDDD"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soso03185&theme=github"
     height="165"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=soso03185&layout=compact&bg_color=00000000&text_color=444444&title_color=2E89FF&border_color=DDDDDD"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soso03185&theme=github"
     height="165"
     alt="Top Languages"
   />
